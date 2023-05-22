@@ -5,7 +5,7 @@ RUN dotnet restore
 RUN dotnet publish -c Release -o out
 
 # Build the runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:7.0
+FROM mcr.microsoft.com/dotnet/aspnet
 WORKDIR /App
 COPY --from=build-env /App/out .
 ENTRYPOINT ["dotnet", "DotNet.Docker.dll"]
