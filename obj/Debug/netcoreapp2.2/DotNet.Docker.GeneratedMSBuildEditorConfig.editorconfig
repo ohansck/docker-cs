@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DotNet.Docker
+build_property.ProjectDir = c:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\

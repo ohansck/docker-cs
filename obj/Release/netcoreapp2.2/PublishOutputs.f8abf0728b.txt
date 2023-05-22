@@ -1,0 +1,4 @@
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Release\netcoreapp2.2\publish\DotNet.Docker.dll
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Release\netcoreapp2.2\publish\DotNet.Docker.deps.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Release\netcoreapp2.2\publish\DotNet.Docker.runtimeconfig.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Release\netcoreapp2.2\publish\DotNet.Docker.pdb

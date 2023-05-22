@@ -1,0 +1,13 @@
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Debug\netcoreapp2.2\DotNet.Docker.deps.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Debug\netcoreapp2.2\DotNet.Docker.runtimeconfig.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Debug\netcoreapp2.2\DotNet.Docker.runtimeconfig.dev.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Debug\netcoreapp2.2\DotNet.Docker.dll
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\bin\Debug\netcoreapp2.2\DotNet.Docker.pdb
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.csproj.AssemblyReference.cache
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.AssemblyInfo.cs
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.dll
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.pdb
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\obj\Debug\netcoreapp2.2\DotNet.Docker.genruntimeconfig.cache

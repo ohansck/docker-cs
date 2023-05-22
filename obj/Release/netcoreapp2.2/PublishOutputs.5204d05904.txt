@@ -1,0 +1,4 @@
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\Out\DotNet.Docker.dll
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\Out\DotNet.Docker.deps.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\Out\DotNet.Docker.runtimeconfig.json
+C:\Users\KINGSLEY\Desktop\WebDesktop\Docker\dotnet\app\Out\DotNet.Docker.pdb
